@@ -1,0 +1,128 @@
+*{
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#cabesa{
+  width: 100%;
+  height: 450px;
+  background: #303030;
+  
+}
+#text-1{
+width: 1024px;
+height: 72px;
+left: 62px;
+padding:160px 0px 0px 60px;
+color: #FFFFFF;
+font-size: 50px;
+
+/*font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 72px;
+
+letter-spacing: -0.025em;
+font-feature-settings: 'liga' off;*/
+}
+#text-2{
+  width: 1024px;
+  height: 72px;
+  left: 62px;
+  padding:0px 0px 0px 60px;
+  color: #FFFFFF;
+  
+  /*font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;*/
+
+  }
+  #cabesa-2{
+  width: 100%;
+  height: 150px;
+  background: #F9F9F9;
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+  }
+  .info{
+    width: 292px;
+    height: 10%;
+    padding:100px 0px 0px 60px;
+    padding-top: 10%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    
+  }
+  #meio-1{
+      
+          display: grid;
+          grid-auto-flow: column;
+          columns: auto;
+  }
+  #titulovideo{
+      
+      margin-top: 50px;
+      padding: 200px 0px 0px 60px;
+    
+      
+  }
+  #textovideo{
+          
+       padding: 0px 0px 60px 60px;
+       display: flex;
+       align-items: center;
+       font-size: 20px;
+
+  }
+  #imagen-1{
+          margin:  50px 0px 50px 0px;
+          padding: 60px 50px 60px 60px;
+}
+.teste-6{
+   font-size: 35px;
+}
+#final{
+width: 100%;
+height: 538px;
+background: #303030;
+}
+#titulo-final{
+font-size: 32px;
+text-align: center;
+padding: 100px;
+color: #FFFFFF;
+}
+#btn-x{
+  display: grid;
+  columns: auto;
+}
+input{
+  font-family: 'Lato' sans-serif;
+  color: #02020277;
+  width: 300px;
+  height: 40px;
+  background-color:#EAECE5 ;
+  margin: auto;
+  border: 0px;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+button{
+  background-color:#C07212 ;
+  border-radius: 10px;
+  height: 40px;
+  width: 250px;
+  margin: auto;
+  color:#EAECE5;
+  border: 0px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  font-weight: bolder;
+  cursor: pointer;
+}
